@@ -1,0 +1,66 @@
+.fundo{
+  width: 300px;
+  height: 441px;
+  background:  linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+  padding: 100px;
+  background-size: 100%;
+  background-repeat:no-repeat;
+}
+.card {
+  position: absolute;
+  left: 35%;
+  top: 20%;
+  background: linear-gradient(157deg, rgba(0,255,171,1) 0%, rgba(77,101,255,1) 62%);
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+}
+.dados{
+  margin-left: 49px; 
+  position: absolute;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 16px;
+}
+.logo{
+  height: 70px; 
+  margin-left: 40px; 
+  border-radius: 0px;
+}
+.button{
+  margin-top: 0.4rem;
+
+  width: 100%;
+  height: 2.4rem;
+  border: 0;
+
+  cursor: pointer;
+
+  background: #3CDC8C;
+
+  border-radius: 2rem;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color .2s;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+
+}
+.format{
+  width: 100%; 
+  font-size: 22px;
+  border: 1px solid #D3E2E5;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+  
